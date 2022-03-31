@@ -16,6 +16,7 @@ This will be a 2 player game. if you can get 4 tokens in a row then you win.
 ![Connect 4](https://user-images.githubusercontent.com/78513048/161125104-e8867c49-025f-4633-9b4b-07332c9c2a31.gif)
 
 ## GUI Mockup #2
+![New Piskel](https://user-images.githubusercontent.com/78513048/161126016-8d26f093-6c43-4e7f-8be4-15cb197db705.gif)
 
 ## GUI Mockup #3
 
