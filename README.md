@@ -4,9 +4,9 @@ It's like regular sudoku, but with a special twist. When a number is incorrectly
 ## GUI Mockup #1: Start Screen
 ![New Piskel](https://user-images.githubusercontent.com/89100747/161114242-3ec0f67c-1d65-46e8-9338-24cc781f4f3e.png)
 ## GUI Mockup #2: Gameplay
-
+![New Piskel (1) (1)](https://user-images.githubusercontent.com/89100747/163023957-94749f2f-9eff-4fbb-8ce8-09ee2f267f10.png)
 ## GUI Mockup #3: End Screen
-
+![New Piskel (1) (2)](https://user-images.githubusercontent.com/89100747/163023963-0b6bdb8d-1225-42f5-86ed-4bcaf6eba7a1.png)
 ## Class Diagram
 
 # Application Idea 2: Connect 4
