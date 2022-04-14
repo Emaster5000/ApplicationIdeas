@@ -8,7 +8,7 @@ It's like regular sudoku, but with a special twist. When a number is incorrectly
 ## GUI Mockup #3: End Screen
 ![New Piskel (1) (2)](https://user-images.githubusercontent.com/89100747/163023963-0b6bdb8d-1225-42f5-86ed-4bcaf6eba7a1.png)
 ## Class Diagram
-
+![Sudoku drawio](https://user-images.githubusercontent.com/89100747/163448627-602b2af2-1bda-415e-8e33-38a570749c1e.png)
 # Application Idea 2: Connect 4
 This will be a 2 player game. if you can get 4 tokens in a row then you win.
 
