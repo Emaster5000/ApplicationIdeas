@@ -2,5 +2,5 @@
 
 class Medium {
   public:
-  void board1();
+  void medium();
 };
