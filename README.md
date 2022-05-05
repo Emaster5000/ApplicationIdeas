@@ -1,24 +1,11 @@
 # Application Idea 1: Explosion Sudoku
-It's like regular sudoku, but with a special twist. When a number is incorrectly placed, it explodes, erasing all numbers in the box. This forces the player (just 1) to replace the numbers. Additionally, if all the numbers are gone, then the player loses.
+It's like regular sudoku but with a twist. You place numbers 1-9 on the board, and they can't repeat within that box, row, or column. The twist is when a number is incorrectly placed, it explodes, erasing all numbers in the box. This forces the player (just 1) to replace the numbers. Additionally, if all the numbers are gone, then the player loses.
 
-## GUI Mockup #1: Start Screen
-![New Piskel](https://user-images.githubusercontent.com/89100747/161114242-3ec0f67c-1d65-46e8-9338-24cc781f4f3e.png)
-## GUI Mockup #2: Gameplay
-![New Piskel (1) (1)](https://user-images.githubusercontent.com/89100747/163023957-94749f2f-9eff-4fbb-8ce8-09ee2f267f10.png)
-## GUI Mockup #3: End Screen
-![New Piskel (1) (2)](https://user-images.githubusercontent.com/89100747/163023963-0b6bdb8d-1225-42f5-86ed-4bcaf6eba7a1.png)
+## Start Screen
+<img width="615" alt="Screen Shot 2022-05-05 at 12 30 14 PM" src="https://user-images.githubusercontent.com/89100747/166993935-6f877774-9102-42d4-b22a-bf1f783e3dc9.png">
+## Gameplay
+<img width="351" alt="Screen Shot 2022-05-05 at 12 30 59 PM" src="https://user-images.githubusercontent.com/89100747/166994236-027dd9eb-b4be-441b-acf0-4023283d9849.png">
+## End Screen
+<img width="591" alt="Screen Shot 2022-05-05 at 12 33 53 PM" src="https://user-images.githubusercontent.com/89100747/166995837-439b73de-1a27-4f87-a75b-73846a6a02a6.png">
 ## Class Diagram
-![Sudoku drawio](https://user-images.githubusercontent.com/89100747/163448627-602b2af2-1bda-415e-8e33-38a570749c1e.png)
-# Application Idea 2: Connect 4
-This will be a 2 player game. if you can get 4 tokens in a row then you win.
-
-## GUI Mockup #1 
-![Connect 4](https://user-images.githubusercontent.com/78513048/161125104-e8867c49-025f-4633-9b4b-07332c9c2a31.gif)
-
-## GUI Mockup #2
-![New Piskel](https://user-images.githubusercontent.com/78513048/161126016-8d26f093-6c43-4e7f-8be4-15cb197db705.gif)
-
-## GUI Mockup #3
-![New Piskel copy](https://user-images.githubusercontent.com/78513048/163021202-e4184ee9-4a53-49e3-9fd8-9561ff90c567.gif)
-
-## Class Diagram
+![Sudoku drawio (1)](https://user-images.githubusercontent.com/89100747/166991527-7553ca0a-24b4-4d75-865d-31be28f1f716.png)
