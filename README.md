@@ -11,4 +11,5 @@ It's like regular sudoku but with a twist. You place numbers 1-9 on the board, a
 ![Sudoku drawio (1)](https://user-images.githubusercontent.com/89100747/166991527-7553ca0a-24b4-4d75-865d-31be28f1f716.png)
 
 All (current) Boards: Parker Dengg
+
 1 Easy board and functionality: Ethan Mabey
