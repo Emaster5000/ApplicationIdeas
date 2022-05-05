@@ -2,5 +2,5 @@
 
 class Easy {
   public:
-  void board();
+  void easy();
 };
