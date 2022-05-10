@@ -1,3 +1,4 @@
+// Ethan Mabey
 #include <iostream>
 
 class Hard {
