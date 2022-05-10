@@ -1,3 +1,4 @@
+// Ethan Mabey
 #include "hard.h"
 using namespace std;
 
@@ -8,6 +9,7 @@ void Hard::hard() {
   char line2[] = "========================================\n";
   int hard = rand()%1;
   if (hard == 0) {
+    // Parker Dengg
     n1 = "|   |   |   ||   | 5 | 1 ||   |   |   ||\n";
     n2 = "|   |   | 2 || 3 |   |   || 1 |   | 9 ||\n";
     n3 = "|   |   | 1 || 9 | 8 | 2 || 3 |   |   ||\n";
