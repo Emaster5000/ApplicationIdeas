@@ -1,3 +1,4 @@
+// Ethan Mabey
 #include "easy.h"
 using namespace std;
 
@@ -38,6 +39,7 @@ void Easy::board1() {
     cout << line;
   }
   if(easy == 1) {
+    // Parker Dengg
     n1 = "|   | 7 | 9 || 8 |   | 2 ||   | 6 | 3 ||\n";
     n2 = "| 6 |   |   || 9 |   |   ||   | 1 |   ||\n";
     n3 = "| 8 |   | 3 ||   | 7 |   ||   |   | 2 ||\n";
