@@ -1,3 +1,4 @@
+// Ethan Mabey
 #include "expert.h"
 using namespace std;
 
@@ -8,6 +9,7 @@ void Expert::expert() {
   char line2[] = "========================================\n";
   int expert = rand()%1;
   if (expert == 0) {
+    // Parker Dengg
     n1 = "| 9 |   |   || 6 | 7 |   ||   |   |   ||\n";
     n2 = "| 2 |   |   || 9 |   |   ||   |   |   ||\n";
     n3 = "|   |   |   ||   |   |   || 6 | 2 |   ||\n";
