@@ -1,5 +1,8 @@
-// Ethan Mabey
 #include "easy.h"
+#include "medium.h"
+#include "hard.h"
+#include "expert.h"
+#include <iostream>
 using namespace std;
 
 int main(int argc, const char * argv[]) {
