@@ -1,4 +1,4 @@
-// Ethan Mabey
+#include <iostream>
 #include "easy.h"
 using namespace std;
 
